@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 using Xamarin.Forms;
 
 namespace App1
@@ -13,11 +15,12 @@ namespace App1
         {
             InitializeComponent();
 
-            MainPage = new App1.Sample();
+            MainPage = new App1.MainPage();
         }
 
         protected override void OnStart()
         {
+            MobileCenter.Start("210b4344-ddb0-41b5-b8c8-0ae9a7d5cb87", typeof(Analytics), typeof(Crashes));
             // Handle when your app starts
         }
 

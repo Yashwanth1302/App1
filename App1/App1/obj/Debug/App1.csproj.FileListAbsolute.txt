@@ -14,5 +14,17 @@ F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\obj\Debug\App1.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\obj\Debug\App1.pdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\App1.dll.config
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\Newtonsoft.Json.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\System.Net.Http.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\System.Net.Http.Extensions.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\System.Net.Http.Primitives.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\Newtonsoft.Json.xml
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\System.Net.Http.xml
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\System.Net.Http.Extensions.xml
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\System.Net.Http.Primitives.xml
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\obj\Debug\App1.csproj.App.config
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\obj\Debug\App1.dll.mdb
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\SampleMobileCenter\App1\App1\App1\bin\Debug\App1.dll.mdb
