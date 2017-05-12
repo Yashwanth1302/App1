@@ -15,7 +15,7 @@ namespace App1
         {
             InitializeComponent();
 
-            MainPage = new App1.MainPage();
+            MainPage = new App1.Sample();
         }
 
         protected override void OnStart()
